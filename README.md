@@ -7,10 +7,10 @@
 Here are some ideas to get you started:
 -->
 <a href="https://github.com/MUdugbesi/">
-<img align="left" alt="MUdugbesi | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<img align="left" alt="MUdugbesi | Github" width="22px" style="background-color:white;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.linkedin.com/in/udugbesi-marvelous-97739b328/">
-<img align="left" alt="MUdugbesi_LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="MUdugbesi_LinkedIn | LinkedIn" width="22px" style="background-color:white;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <!-- <p>
   <span>Contact me on whatsApp</span>
