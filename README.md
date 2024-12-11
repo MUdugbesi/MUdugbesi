@@ -24,15 +24,16 @@ Hi, I'm Marvelous Udugbesi, a dedicated and passionate Full Stack Software Engin
 
 **Talking about being personal**
 
-- 🔭 I’m currently works as a Registered Nurse in the United Kingdom.
+- 🔭 I’m currently work as a Registered Nurse in the United Kingdom.
+- 🎯 Intermediate goal - carer change into tech industry.
 - 🔭 I'm presently undergoing a skill web developement bootcamp programme powered by hyperiondev with support from DFE.
-- 🌱 I’m currently learning Nextjs
-- 👯 I'm part of the developer community
+- 🌱 I’m currently learning Nextjs.
+- 👯 I'm part of the developer community.
 - 👯 I’m looking to collaborate on MERN web application or any other web based applications.
 - 💬 I am happy to answer any questions, please ask.
 - 📫 How to reach me: Any of my social media platform above.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I play the saxophone
+- 😄 Pronouns: He/Him.
+- ⚡ Fun fact: I play the saxophone.
 - 📚 [Portifolio!](https://marv-portifolio-24.netlify.app)
 
 
