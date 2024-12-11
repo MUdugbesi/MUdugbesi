@@ -1,4 +1,4 @@
-### Hello there 👋, its [Marvelous!] (https://marv-portifolio-24.netlify.app)
+### Hello there 👋, its [Marvelous!](https://marv-portifolio-24.netlify.app)
 <br />
 
 <!--
@@ -32,7 +32,7 @@ Hi, I'm Marvelous Udugbesi, a dedicated and passionate Full Stack Software Engin
 - 📫 How to reach me: Any of my social media platform above.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play the saxophone
-- 📚 [Portifolio!] (https://marv-portifolio-24.netlify.app)
+- 📚 [Portifolio!](https://marv-portifolio-24.netlify.app)
 
 
 **Community**
