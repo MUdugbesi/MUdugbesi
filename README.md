@@ -26,8 +26,7 @@ Hi, I'm Marvelous Udugbesi, a dedicated and passionate Full Stack Software Engin
 
 - 🔭 I currently work as a Registered Nurse in the United Kingdom.
 - 🎯 Intermediate goal - carer change into tech industry.
-- 🔭 I'm presently undergoing a skill web developement bootcamp programme powered by hyperiondev with support from DFE.
-- 🌱 I’m currently learning Nextjs.
+- 🔭 I'm a skilled react/nextjs web developer.
 - 👯 I'm part of the developer community.
 - 👯 I’m looking to collaborate on MERN web application or any other web based applications.
 - 💬 I am happy to answer any questions, please ask.
