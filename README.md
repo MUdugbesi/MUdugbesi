@@ -25,8 +25,8 @@ I am a dedicated Full Stack Developer with a background in healthcare (Nursing),
 ---
 
 ### 👯 Let's Connect
-- 📚 [Portfolio Website](https://marv-portifolio-24.netlify.app/)[cite: 1]
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/udugbesi-marvelous-97739b328/)[cite: 1]
+- 📚 [Portfolio Website](https://marv-portifolio-24.netlify.app/)
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/marvelous-udugbesi-97739b328/)
 - 📫 Reach me at: **udugbesimarves@gmail.com**
 - 🎷 **Fun Fact:** I play the saxophone! 
 
