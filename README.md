@@ -8,7 +8,7 @@ I am a dedicated Full Stack Developer with a background in healthcare (Nursing),
 
 ### 🚀 What I'm working on
 - 🎓 **MSc Computer Science:** Currently pursuing my Master's at Heriot-Watt University.
-- 🤖 **BackendIM:** Developing an AI-powered tool that generates backend boilerplate and documentation via natural language prompts.
+- 🤖 **BackendIM:** Worked in collabaration to other developers to develop an AI-powered tool that generates backend boilerplate and documentation via natural language prompts.
 - 🌐 **Chrome Extensions:** Building AI-driven productivity tools for real-time text summarization.
 - ☁️ **Cloud Native:** Implementing microservices using Docker, Kubernetes, and IBM Cloud.
 
