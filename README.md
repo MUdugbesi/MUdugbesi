@@ -12,6 +12,8 @@ I am a dedicated Full Stack Developer with a background in healthcare (Nursing),
 - 🌐 **Chrome Extensions:** Building AI-driven productivity tools for real-time text summarization.
 - ☁️ **Cloud Native:** Implementing microservices using Docker, Kubernetes, and IBM Cloud.
 - 🤖 **Smart Gym Reservaation Bot:** An intelligent, automated web-scraping assistant built with Python, Selenium WebDriver, Gemini-genai and AWS to automatically register for gym timeslots.
+- 🏥 **Vital AI (In progress):** Developing a healthcare-focused AI-powered platform that leverages natural language processing and machine learning to provide personalized healthcare solutions based on patient's vital signs.
+
 
 
 ### 🛠️ Tech Stack
